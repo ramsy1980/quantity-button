@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/react": "16.14.2",
-    "@types/react-dom": "16.9.5",
+    "@types/react-dom": "16.9.10",
     "typescript": "3.7.5"
   },
   "scripts": {
